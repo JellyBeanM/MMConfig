@@ -1,0 +1,2 @@
+# MMConfig
+object config
